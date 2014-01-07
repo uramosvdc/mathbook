@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension
+	version="2.5"
+	type="template"
+	client="site">
+       <name>mathbook</name>
+       <creationDate>10/10/09</creationDate>
+       <author>uriel</author>
+       <authorEmail>uramos.vdc@gmail.com</authorEmail>
+       <authorUrl>http://www.kontentdesign.com</authorUrl>
+       <copyright>Copyright (C) 2005 - 2013 Open Source Matters, Inc. All rights reserved</copyright>
+       <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+       <version>2.5</version>
+       <description>TPL_MATHBOOK_XML_DESCRIPTION</description>
+	<files>
+		<folder>css</folder>
+		<folder>engine1</folder>
+		<folder>images</folder>
+		<filename>css/menu_style.css</filename>
+		<filename>css/style.css</filename>
+		<filename>css/style.mod.css</filename>
+		<filename>favicon.ico</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>index.php</filename>
+		<filename>slider.html</filename>
+		<filename>index.html</filename>
+		<filename>engine1/script.js</filename>
+		<filename>engine1/jquery∫∫.js</filename>
+		<filename>engine1/wowslider.js</filename>
+		<filename>engine1/wowslider.mod.js</filename>
+		<filename>images/arrows.png</filename>
+		<filename>images/bg.png</filename>
+		<filename>images/bullet.png</filename>
+		<filename>images/fullscreen.png</filename>
+		<filename>images/home_lineasdegrado.jpg</filename>
+		<filename>images/pause.png</filename>
+		<filename>images/play.png</filename>
+		<filename>images/slider_01</filename>
+		<filename>images/slider_02</filename>
+		<filename>images/slider_03</filename>
+		<filename>images/slider_04</filename>
+		<filename>images/slider_05</filename>
+		<filename>images/titulo.png</filename>
+		<filename>images/triangle.png</filename>
+		<filename>images/bottom-fade.png</filename>
+	</files>
+	<positions>
+		<position>mapaheader</position>
+		<position>container</position>
+		<position>superior</position>
+		<position>header</position>
+		<position>titulo</position>
+		<position>menu</position>
+		<position>busqueda</position>
+		<position>contenido</position>
+		<position>login</position>
+		<position>footer</position>
+		<position>linea</position>
+		<position>matematicas_menu</position>
+		<position>tareas_menu</position>
+		<position>negocios_menu</position>
+		<position>trasero</position>
+	</positions>	
+</extension>
